@@ -1,0 +1,17 @@
+.story {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.story-image {
+  width: 70px;
+  height: 70px;
+  border: none;
+  border-radius: 35px;
+}
+.story-text {
+  font-family: 'roboto';
+  font-weight: 400;
+  font-size: 14px;
+}
